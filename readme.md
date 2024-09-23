@@ -5,13 +5,23 @@ By Mark Crowe
 
 > "A library serves no purpose unless someone is using it." – Atoz, 2269
 
-## Requirements
-
-- [Git](https://git-scm.com/)
-
 ## Tools Used/Recommended IDEs
 
-- [VS Code](https://code.visualstudio.com/)
+- [GitHub Desktop](https://desktop.github.com/ "GitHub Desktop")
+- [VS Code](https://code.visualstudio.com/ "VS Code")
+- [Git](https://git-scm.com/ "Git")
+- [Pandoc](https://pandoc.org/ "Pandoc")
+- [Microsoft Word](https://www.microsoft.com/en-ie/microsoft-365/word "Microsoft Word")
+
+### Online Tools
+
+- [GitHub](https://github.com "GitHub")
+- [Microsoft Office Online](https://www.office.com/ "Microsoft Office Online")
+
+### Diagrams
+
+- [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/)
+- [PlantUML](https://plantuml.com/)
 
 ## Directory Structure
 
@@ -28,4 +38,4 @@ By Mark Crowe
 ---
 **Template footnote:**
 
-This project started from the template <https://github.com/markcrowe-com/data-analytics-project-template>. Permission is granted to reproduce for personal and educational use only. Commercial copying, hiring, lending is prohibited. In all cases this notice must remain intact. Template Author [Mark Crowe](https://github.com/markcrowe-com/) Copyright &copy; 2021, All rights reserved.
+This project started from the template <https://github.com/marcocrowe/final-year-project-fyp-thesis-template>. Permission is granted to reproduce for personal and educational use only. Commercial copying, hiring, lending is prohibited. In all cases this notice must remain intact. Template Author [Mark Crowe](https://github.com/marcocrowe/) Copyright &copy; 2021, All rights reserved.

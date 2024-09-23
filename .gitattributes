@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Using Microsoft Word with git
+# https://github.com/marcocrowe/track-ms-word-docx-with-github
+*.docx diff=pandoc
